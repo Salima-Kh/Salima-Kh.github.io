@@ -38,7 +38,7 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 
         <!-- Page Title -->
-        <title>TasteTreatz | {% block title %}{% endblock %}</title>
+        <title>TasteTreatz | {{page_title}}</title>
     </head>
 
     <body>
